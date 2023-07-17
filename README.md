@@ -54,7 +54,7 @@ public PegawaiLanjutan(String namapegawai, String nikpegawai) {
 }
 ```
 
-5. **Mutator** atau setter digunakan untuk mengubah nilai dari suatu atribut. Pada kode ini, `setNama` dan `setNpm` adalah contoh method mutator.
+5. **Mutator** atau setter digunakan untuk mengubah nilai dari suatu atribut. Pada kode ini, `setNamaPegawai` dan `setNikPegawai` adalah contoh method mutator.
 
 ```bash
 public void setNamaPegawai(String namapegawai) {
